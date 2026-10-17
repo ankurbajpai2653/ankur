@@ -1,0 +1,6 @@
+{
+  "name": "IMEI Pusher",
+  "description": "MQTT telemetry and IMEI device pusher with broker configuration, live logs, QoS, and background service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
